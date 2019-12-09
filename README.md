@@ -1,4 +1,4 @@
-# Projeto2_AED1
+# Project2_AED1
 Real time chat in C# using SignalR.
 
 # How to run
